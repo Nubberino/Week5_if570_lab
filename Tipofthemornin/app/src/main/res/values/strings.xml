@@ -4,7 +4,7 @@
     <string name="ServiceQ">How was the service</string>
     <string name="Amazing">Amazing (20%)</string>
     <string name="Okay">Okay (18%)</string>
-    <string name="Eh">...</string>
+    <string name="">...</string>
     <string name="Rodea">Tip round up mode: </string>
     <string name="mathematics">Calculate</string>
     <string name="Results">Tip amount</string>

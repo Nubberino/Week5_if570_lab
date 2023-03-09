@@ -7,6 +7,9 @@ android {
     namespace 'com.example.tipofthemornin'
     compileSdk 33
 
+    buildFeatures {
+        viewBinding = true
+    }
     defaultConfig {
         applicationId "com.example.tipofthemornin"
         minSdk 19

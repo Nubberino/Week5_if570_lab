@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity(){
         NumberFormat.getCurrencyInstance()
 
         val formattedtip = NumberFormat.getCurrencyInstance().format(tip)
-        binding.result.text = getString(R.string.tip_amount, formattedtip)
+        binding.results.text = getString(R.string.Results, formattedtip)
 
     }
 }
